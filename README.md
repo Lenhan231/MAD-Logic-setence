@@ -1,2 +1,3 @@
-## MAD logic setence
-# XOR
+# MAD logic setence
+## XOR
+- XOR basic ["XOR.py"]
