@@ -1,0 +1,2 @@
+## MAD logic setence
+# XOR
